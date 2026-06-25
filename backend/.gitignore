@@ -1,0 +1,6 @@
+backend/venv/
+backend/media/
+node_modules/
+movie/src/video/*.mp4
+*.mp4
+.env
